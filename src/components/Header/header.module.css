@@ -1,0 +1,141 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:5px 30px;
+    /* background-image: url('/public/images/header\ background.avif');
+    background-size: cover;
+    background-position:bottom;
+    background-repeat: no-repeat; */
+    color: white;
+
+   
+}
+
+.logo{
+    /* background: beige; */
+    width: 70px;
+    height: 70px;
+}
+
+.nav{
+    display: flex;
+    gap: 65px;
+    font-size: 20px;
+    text-decoration-line: none;
+    text-decoration-color: none;
+}
+
+
+.icons{
+    display: flex;
+    align-items: center;
+    gap: 45px; 
+}
+
+.icon{
+    width: 35px;
+    height: 35px;
+}
+
+.searchForm{
+    display: flex;
+    /* border-style: groove; */
+    align-items: center;
+    text-indent: 0;
+
+}
+
+.searchInput {
+    display:flex;
+    padding:10px 100px;
+    font-size: 14px;
+    text-indent: 0;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    padding-left: 15px;
+    background-color: none;
+   
+}
+
+.auth{
+    display: flex;
+    gap: 15px;
+
+}
+
+.authText{
+    border-style: groove;
+    padding: 5px 20px;
+}
+
+.line {
+    width: 100%;
+    height: 1px;
+    background-color: #D9D9D9;
+    margin: 15px 0;
+}
+
+
+/* styles.css */
+
+/* .wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    background-color: rgb(232, 232, 240);
+    color: rgb(48, 12, 116);
+  }
+  
+  .logo {
+    width: 50px;
+    height: 50px;
+  }
+  
+  .nav {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .nav a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .icons {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .searchForm {
+    display: flex;
+    align-items: center;
+  }
+  
+  .searchInput {
+    padding: 0.5rem;
+  }
+  
+  .icon {
+    width: 20px;
+    height: 20px;
+  }
+  
+  .auth {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .authText {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .line {
+    height: 1px;
+    background-color: white;
+    margin-top: 1rem;
+  } */
+  

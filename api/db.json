@@ -1,0 +1,261 @@
+{
+    "courses" : [
+        {
+            "id" :1,
+            "title": "Know the Operating Systems",
+            "descr": "Kali Linux is a one-of-a-kind operating system that is used openly by both the bad and good guys. This operating system is widely used by both black hat hackers and security administrators. One prevents and detects security breachers, while the other identifies and potentially exploits security breachers",
+            "picture": "https://techsevi.com/wp-content/uploads/2021/04/Operating-System-Kya-Hai.jpg",
+            "date": "April 21, 2022",
+            "price": "free",
+            "type": "free",
+            "level": "beginner"
+
+        },
+
+        {
+            "id" :2,
+            "title": "Hacking the MAC",
+            "descr": "MAC Address stands for Media Access Control Address. It ensures that the physical address of the computer is unique.MAC spoofing is a technique for changing a factory-assigned MAC address of a network interface on a networked device. It's just like taking over someone else's identity and performing actions by impersonating them",
+            "picture": "https://latesthackingnews.com/wp-content/uploads/2017/07/MAC-spoofing.png",
+            "more": "https://www.getkisi.com/blog/media-access-control",
+            "date": "May 7, 2022",
+            "price": "$49",
+            "type": "purchase",
+            "level": "intermediate"
+
+        },
+
+        {
+            "id" :3,
+            "title": "Gathering Information",
+            "descr": "Generally there are five steps in Hacking that one needs to follow. These are Footprinting or Information Gathering, Scanning,Gaining Access, Maintaining Access, Clearning Tracks.",
+            "picture": "https://i.pinimg.com/736x/76/2a/b0/762ab0f8aac09dd15628e509d02c6cab.jpg",
+            "more": "https://securitytrails.com/blog/information-gathering",
+            "date": "June 3, 2022",
+            "price": "$39",
+            "type": "purchase",
+            "level": "beginner"
+        },
+
+        {
+            "id" :4,
+            "title": "Surfing Anonymously",
+            "descr": "As a hacker, you need to cover your tracks and surf anonymously. Surfing online leaks a lot of personal data that you might wish to keep private. Thus, VPN will help you do that. Using a VPN, you can surf anonymously and prevent your personal data form getting leaked on the browser.",
+            "picture":"https://vpnoverview.com/wp-content/uploads/how-to-browse-the-internet-anonymously-featured-image.png",
+            "more": "https://www.security.org/vpn/anonymity/",
+            "date": "June 27, 2022",
+            "price": "$69",
+            "type": "purchase",
+            "level": "intermediate"
+
+        },
+
+        {
+            "id" :5,
+            "title": "Hiding Messages",
+            "descr": "The concept of hiding messages plays an important role in hacking. You can do that with the help of something called Steganography.",
+            "picture": "https://www.skillrary.com/uploads/updatedimages/13171561728565.png",
+            "more": "https://www.kaspersky.com/resource-center/definitions/what-is-steganography",
+            "date": "July 1, 2022",
+            "price": "$79",
+            "type": "purchase",
+            "level": "advanced"
+
+        },
+
+        {
+            "id" :6,
+            "title": "Social Media Hacking",
+            "descr": "You go fishing, you carry a net/trap with you and you wait for fish to get trapped in your net, or you lure it with some food and catch it. Similarly, phishing is a term used to identify techniques that hackers or cybercriminals use to 'fish' a person and launder the information.",
+            "picture": "https://live-production.wcms.abc-cdn.net.au/3181bfe1fd12cb1c50627d981c6db0af?impolicy=wcms_crop_resize&cropH=1114&cropW=1977&xPos=17&yPos=0&width=862&height=485",
+            "more": "https://infosecwriteups.com/hacking-social-media-account-1abb06c80e1a",
+            "date": "July 2, 2022",
+            "price": "$59",
+            "type": "purchase",
+            "level": "intermediate"
+
+        },
+
+        {
+            "id" :7,
+            "title": "Credit and Debit Card Frauds",
+            "descr": "There are many situations when many times we get fake calls. The caller pretends to be a person from some legitimate company or a bank and offers some deal and in return asks for sensitive information such as bank account or more.",
+            "picture": "https://www.paymentsjournal.com/wp-content/uploads/2021/11/25_251-scaled.jpg",
+            "more": "https://sqnbankingsystems.com/blog/credit-and-debit-card-fraud/",
+            "date": "August 11, 2022",
+            "price": "$85",
+            "type": "purchase",
+            "level": "beginner"
+
+        },
+
+        {
+            "id" :8,
+            "title": "Keyboard spying",
+            "descr": "Keyboard spying, also called Keylogging is one of the most used and dangerous attacks taht a hacker can perform.A Keylogger is a software that is able to record all your actions or keystroke performed on a computer.",
+            "picture": "https://nordvpn.com/wp-content/uploads/keylogger.svg",
+            "more": "https://www.geeksforgeeks.org/ethical-hacking-keyloggers/",
+            "date": "September 29, 2022",
+            "price": "$99",
+            "type": "purchase",
+            "level": "advanced"
+
+        },
+
+        {
+            "id" :9,
+            "title": "Wifi Hacking -WPA-WPA2 Cracking",
+            "descr": "Why Kali Linux is used for hacking? Kali Linux is a one-of-a-kind operating system that is used openly by both the bad and good guys. This operating system is widely used by both black hat hackers and security administrators. One prevents and detects security breachers, while the other identifies and potentially exploits security breachers",
+            "picture":"https://cdn.digitbin.com/wp-content/uploads/Best_WiFi_Hack_Apps-scaled.jpg",
+            "more": "https://www.purevpn.com/blog/wifi-hacking-scty/",
+            "date": "October 21, 2022",
+            "price": "$75",
+            "type": "purchase",
+            "level": "intermediate"
+
+        },
+
+        {
+            "id" :10,
+            "title": "Network Spying",
+            "descr": "It does not matter whether it's a Wi-Fi network or a wired network, once you have gained access to it, you can perform various attacks on it",
+            "picture":"https://elements-cover-images-0.imgix.net/e1b2dd64-71af-47b9-906d-fe7a87f60eec?auto=compress%2Cformat&fit=max&w=900&s=6ffb30ad4c78bfb4f2317c2fac83f79a",
+            "more": "https://www.easytechjunkie.com/what-is-a-network-spy.htm",
+            "date": "November 18, 2022",
+            "price": "$87",
+            "type": "purchase",
+            "level": "advanced"
+
+        },
+
+        {
+            "id" :11,
+            "title": "Database Hacking ",
+            "descr": "Hackers can extract your login credentials, your personal information, and such other sensitive data tht is stored in the database.This can be done using an attack called SQL Injection.",
+            "picture": "https://media.istockphoto.com/id/1331171049/vector/database-security-software-development-id-theft-hacking-crime-computer-malware-data.jpg?s=1024x1024&w=is&k=20&c=8UbciXwVsuOJK_5J9P1fOGEQ2_nD54NnPuEIekoR_S4=",
+            "more": "https://www.wikihow.com/Hack-a-Database",
+            "date": "December 15, 2022",
+            "price": "$149",
+            "type": "purchase",
+            "level": "advanced"
+
+        },
+
+        {
+            "id" :12,
+            "title": "Android Hacking",
+            "descr": "Android is one of the most used mobile operating systems and one of the most vulnerable ones.",
+            "picture":"https://bgr.com/wp-content/uploads/2019/08/android-10-android-q-name-logo-color.jpg?quality=82&strip=all",
+            "more": "https://www.thesun.co.uk/tech/19524780/official-warning-android-third-party-apps-google-play-store/",
+            "date": " January 1, 2023",
+            "price": "$49",
+            "type": "purchase",
+            "level": "intermediate"
+
+        },
+
+        {
+            "id" :13,
+            "title": "Bringing down a website",
+            "descr": "Hackers can attack and flood a website with fake requests resulting in bringing down the webiste and denying the service to its legitmate users. This is called a Denial of Service attack.",
+            "picture": "https://browsee.io/blog/content/images/2018/11/404.png",
+            "more": "https://blogs.scientificamerican.com/observations/how-hackers-take-down-web-sites-video/",
+            "date": "Fenruary 6, 2023",
+            "price": "$95",
+            "type": "purchase",
+            "level": "advanced"
+
+        },
+
+        {
+            "id" :14,
+            "title": "Cross-Site Scripting",
+            "descr": "Typically, the attack injects malicious JavaScript code into your website. When people go to your website, the browser dowloads the script and executes it. As a result, the attacker can gain user informatin through session cookies or even date provided by user themselves ",
+            "picture": "https://media.geeksforgeeks.org/wp-content/uploads/20190516152959/Cross-Site-ScriptingXSS.png",
+            "more": "https://www.veracode.com/security/xss#:~:text=Cross%2Dsite%20scripting%20attacks%2C%20also,JavaScript%2C%20to%20an%20end%20user.",
+            "date": "March 21, 2023",
+            "price": "$119",
+            "type": "purchase",
+            "level": "advanced"
+
+        },
+
+        {
+            "id" :15,
+            "title": "Make your data safe",
+            "descr": "Cryptography is an essential way of preventing data hacks from happening. It secures information and communications, using set of rules that allows only those intended-and no one else.",
+            "picture": "https://www.american-equity.com/filesimages/Blog/AELifeSite_Blog-0027_Interior%20Blog_Tips%20to%20Keep%20Your%20Personal%20Information.jpg",
+            "more": "https://www.american-equity.com/resources/blog/how-to-keep-your-personal-information-safe-online",
+            "date": "April 16, 2023",
+            "price": "$39",
+            "type": "free",
+            "level": "beginner"
+
+        },
+
+        {
+            "id" :16,
+            "title": "Hacking Passwords",
+            "descr": "In this session, we will see how to secure a password, and how can we crack a Windows machine's password.",
+            "picture": "https://www.passwordrevelator.net/blog/wp-content/uploads/2016/06/cracker-mot-de-passe.jpg",
+            "more": "https://www.passwordrevelator.net/blog/en/cracker-or-pirate-a-password-2/",
+            "date": "May 3, 2023",
+            "price": "$96",
+            "type": "purchase",
+            "level": "advanced"
+
+        },
+
+        {
+            "id" :17,
+            "title": "WordPress Scanning",
+            "descr": "Wordpress is a Content Management System that uses the most widely used Coding Stack.Thus, it is necessary to scan the WordPress for possible bugs and vulnerabilities.",
+            "picture": "https://kinsta.com/wp-content/uploads/2021/10/scan-wordpress-for-malware-1024x512.jpg",
+            "more": "https://kinsta.com/blog/scan-wordpress-for-malware/",
+            "date": "February 27, 2023",
+            "price": "$89",
+            "type": "purchase",
+            "level": "intermediate"
+
+        },
+
+        {
+            "id" :18,
+            "title": "Vulnerability Scanning and Reporting",
+            "descr": "Nexpose identifies the active services, open ports, and running applications on each machine, and it attempts to find vulnerabilities that may exist.",
+            "picture": "https://miro.medium.com/v2/resize:fit:1200/1*uIiyQRex-PLfxre3gMaAIw.png",
+            "more": "https://www.getastra.com/blog/security-audit/vulnerability-scanning-report/",
+            "date": "May 9, 2023",
+            "price": "$107",
+            "type": "purchase",
+            "level": "advanced"
+
+        },
+
+        {
+            "id" : 19,
+            "title": "Social Engineering",
+            "descr": "Social engineering is the tactic of manipulating, influencing, or deceiving a victim in order to gain control over a computer system, or to steal personal and financial information.",
+            "picture": "https://terranovasecurity.com/wp-content/uploads/2019/10/Examples-Social-Engineering-Attacks-EN.jpg",
+            "more": "https://www.imperva.com/learn/application-security/social-engineering-attack/",
+            "date": "May 11, 2023",
+            "price": "free",
+            "type": "free",
+            "level": "beginner"
+
+        },
+
+        {
+            "id" : 20,
+            "title": "Phishing and Security",
+            "descr": "Phishing is a form of social engineering where attackers deceive people into revealing sensitive information or installing malware such as ransomware.",
+            "picture": "https://www.researchgate.net/publication/343543963/figure/fig1/AS:933209953026048@1599505999223/Example-of-an-email-based-phishing-attack.png",
+            "more": "https://www.holmsecurity.com/fundamentals/phishing-awareness",
+            "date": "June 1, 2023",
+            "price": "free",
+            "type": "free",
+            "level": "beginner"
+
+        }
+    ]
+}
